@@ -6,5 +6,82 @@
     "prefix tuning transformer",
     "LoRA fine-tuning",
     "fine-tuning hyperparameters"
+  ],
+  "research_study_list": [
+    {
+      "title": "Spectral Adapter: Fine-Tuning in Spectral Space"
+    },
+    {
+      "title": "Parameter-Efficient Fine-Tuning Design Spaces"
+    },
+    {
+      "title": "ReFT: Representation Finetuning for Language Models"
+    },
+    {
+      "title": "SVFT: Parameter-Efficient Fine-Tuning with Singular Vectors"
+    },
+    {
+      "title": "Make Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning"
+    },
+    {
+      "title": "Adapters Strike Back"
+    },
+    {
+      "title": "Spectral Adapter: Fine-Tuning in Spectral Space"
+    },
+    {
+      "title": "Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data"
+    },
+    {
+      "title": "Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization"
+    },
+    {
+      "title": "Res-Tuning: A Flexible and Efficient Tuning Paradigm via Unbinding Tuner from Backbone"
+    },
+    {
+      "title": "Prompting a Pretrained Transformer Can Be a Universal Approximator"
+    },
+    {
+      "title": "CausalLM is not optimal for in-context learning"
+    },
+    {
+      "title": "Transformer-Patcher: One Mistake Worth One Neuron"
+    },
+    {
+      "title": "HyperTuning:  Toward Adapting Large Language Models without Back-propagation"
+    },
+    {
+      "title": "Prefix Conditioning Unifies Language and Label Supervision"
+    },
+    {
+      "title": "DoRA: Weight-Decomposed Low-Rank Adaptation"
+    },
+    {
+      "title": "DoRA: Weight-Decomposed Low-Rank Adaptation"
+    },
+    {
+      "title": "Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning "
+    },
+    {
+      "title": "LoRA Training in the NTK Regime has No Spurious Local Minima"
+    },
+    {
+      "title": "LoRA Training in the NTK Regime has No Spurious Local Minima"
+    },
+    {
+      "title": "Hyperparameter Optimization through Neural Network Partitioning"
+    },
+    {
+      "title": "Practical Differentially Private Hyperparameter Tuning with Subsampling"
+    },
+    {
+      "title": "Meta-learning to Improve Pre-training"
+    },
+    {
+      "title": "On hyperparameter tuning in general clustering problemsm"
+    },
+    {
+      "title": "Rethinking the Hyperparameters for Fine-tuning"
+    }
   ]
 }
